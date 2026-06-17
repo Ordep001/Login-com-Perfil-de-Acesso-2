@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+}
+
+.container{
+    max-width:800px;
+    margin:40px auto;
+    padding:20px;
+    text-align:center;
+}
+
+input{
+    width:100%;
+    padding:10px;
+    margin:10px 0;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+#listaFuncionarios{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+    justify-content:center;
+    margin-top:20px;
+}
+
+.card{
+    width:250px;
+    background:white;
+    padding:15px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.1);
+}
+
+#erro{
+    color:red;
+    margin-top:10px;
+}
