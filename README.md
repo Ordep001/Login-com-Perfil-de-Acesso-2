@@ -21,3 +21,9 @@
 - Persistência de dados utilizando LocalStorage
 - Gerenciamento de sessão utilizando SessionStorage
 - Logout seguro
+
+- <img width="725" height="541" alt="Captura de tela 2026-06-17 202259" src="https://github.com/user-attachments/assets/9421a91d-c8ea-49d2-9e47-add8b3e54bc2" />
+
+- <img width="532" height="220" alt="Captura de tela 2026-06-17 202337" src="https://github.com/user-attachments/assets/eb52aa4d-f2b3-4195-9837-fa4e33c27943" />
+
+
